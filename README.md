@@ -1,7 +1,9 @@
 # Test Site
 
-testing, testing...
+testing, testing, testing...
 
 ## A new example
 
-### blah blah blah
+Updating locally...
+
+### Learning some stuff.
